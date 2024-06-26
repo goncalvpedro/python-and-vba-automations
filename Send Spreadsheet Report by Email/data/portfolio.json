@@ -1,0 +1,62 @@
+[
+  {
+    "ticker": "BTAL11.SA",
+    "qtd": 23,
+    "paid_price": 82.29,
+    "active": true
+  },
+  {
+    "ticker": "IRDM11.SA",
+    "qtd": 33,
+    "paid_price": 95.64,
+    "active": true
+  },
+  {
+    "ticker": "MXRF11.SA",
+    "qtd": 200,
+    "paid_price": 10.31,
+    "active": true
+  },
+  {
+    "ticker": "RZTR11.SA",
+    "qtd": 28,
+    "paid_price": 96.79,
+    "active": true
+  },
+  {
+    "ticker": "SNAG11.SA",
+    "qtd": 198,
+    "paid_price": 10.08,
+    "active": true
+  },
+  {
+    "ticker": "TAEE3.SA",
+    "qtd": 66,
+    "paid_price": 11.79,
+    "active": true
+  },
+  {
+    "ticker": "TGAR11.SA",
+    "qtd": 35,
+    "paid_price": 123.41,
+    "active": true
+  },
+  {
+    "ticker": "VISC11.SA",
+    "qtd": 10,
+    "paid_price": 118.75,
+    "active": true
+  },
+  {
+    "ticker": "BBDC3.SA",
+    "qtd": 58,
+    "paid_price": 12.49,
+    "active": true
+  },
+  {
+    "ticker": "XPML11.SA",
+    "qtd": 9,
+    "paid_price": 106.55,
+    "active": true
+  }
+]
