@@ -1,4 +1,3 @@
-﻿# AutomagicaHub
 # Python and VBA Automation Projects
 
 Welcome to the Python and VBA Automation Projects repository! Here, you'll find a collection of projects aimed at automating tasks using Python and VBA.
